@@ -8,7 +8,8 @@ CNN for multi-class image classification in TensorFlow and Keras
 
 ```
 Top
-├── data
+├── datasets            :locate datasets
+│   └── EuroSAT_RGB     :Download and unzip sample data
 ├── notebook
 │   └── nets
 ├── src
