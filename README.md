@@ -1,1 +1,20 @@
-# Patch_image_classification
+# Satellite Image classification with TensorFlow and Keras
+
+CNN for multi-class image classification in TensorFlow and Keras
+
+## 1. Structure of directories
+### sub directories
+<p>
+
+```
+Top
+├── data
+├── notebook
+│   └── nets
+├── src
+│   ├── nets
+│   └──utils 
+...
+```
+</p>
+
