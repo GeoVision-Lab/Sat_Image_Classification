@@ -59,5 +59,13 @@ TBD
 TBD
 
 ## 4. Get Started
+TBD
 
-### 4.1 Data
+### 4.1 Data download
+TBD
+
+### 4.3 Training and Validation
+TBD
+
+### 4.4 Checking results
+TBD
