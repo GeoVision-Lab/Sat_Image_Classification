@@ -1,2 +1,1 @@
-# Sat_Image_Classification
-Satellite image classification with deep learning
+# Patch_image_classification
