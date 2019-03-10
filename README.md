@@ -56,13 +56,41 @@ TF_CNN_sample.py
 TBD
 
 ### 3.2 Requirements
-TBD
+* [Python 3.6.8+](https://www.python.org/)
+* [tensorflow 1.10.0 +](https://www.tensorflow.org/)
+* [tensorboard 1.12.2 +](https://www.tensorflow.org/guide/summaries_and_tensorboard)
+* [keras-gpu 2.2.4+](https://keras.io/)
+* [jupyter 1.0.0+](https://jupyter.org/)
+* [pandas 0.24.1+](https://pandas.pydata.org/)
+* [matplotlib 3.0.2+](https://matplotlib.org/)
+* [seaborn 0.9.0+](https://seaborn.pydata.org/)
 
 ## 4. Get Started
 TBD
 
 ### 4.1 Data download
-TBD
+Sample data sets is "EuroSAT"; 10 land cover categories from industrial to permanent crop, 27k 64x64 pixel chips, 3/16 band Sentinel-2 satellite imagery (10m res.), covering cities in 30 countries.
+Downloading and unzip "EuroSAT (RGB color space images)" datasets from http://madm.dfki.de/downloads to ~/datasets directory as shown below.
+
+<p>
+
+```
+Top
+├── datasets                
+│   ├── EuroSAT_RGB
+│   │   ├── Residential
+│   │   ├── Industrial
+│   │   ├── HerbaceousVegetation
+│   │   ├── PermanentCrop
+│   │   ├── AnnualCrop
+│   │   ├── Highway
+│   │   ├── River
+│   │   ├── Forest
+│   │   ├── Pasture
+│   │   └── SeaLake
+...
+```
+</p>
 
 ### 4.3 Training and Validation
 TBD
